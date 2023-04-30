@@ -1,2 +1,2 @@
 # reading-project
-List of reading projects.
+List of amateur radio projects.
